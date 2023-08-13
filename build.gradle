@@ -1,9 +1,10 @@
+group 'com.chuka'
+version '1.0-SNAPSHOT'
+/*
+
 plugins {
     id 'java'
 }
-
-group 'com.chuka'
-version '1.0-SNAPSHOT'
 
 repositories {
     mavenCentral()
@@ -16,4 +17,4 @@ dependencies {
 
 test {
     useJUnitPlatform()
-}
+}*/
